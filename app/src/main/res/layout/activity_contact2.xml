@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/teal_200"
+    tools:context=".ContactActivity2">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginEnd="0dp"
+        android:text="GET IN TOUCH"
+        android:textSize="20sp"
+        android:textColor="#640175"
+        android:background="#DD2196F3"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="AVAILABLE TIMING : 9AM TO 10PM"
+        android:textSize="20sp"
+        android:textColor="#FF034A"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="CONTACT US THROUGH"
+        android:textSize="20sp"
+        android:textColor="#FF034A"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="PHONE NO : 9791734178"
+        android:textSize="20sp"
+        android:textColor="#FF034A"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="LAND LINE : 044_243689281"
+        android:textSize="20sp"
+        android:textColor="#FF034A"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="EMAIL : harijewels@gmail.com"
+        android:textSize="20sp"
+        android:textColor="#FF034A"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="190dp"
+        android:layout_marginEnd="0dp"
+        android:text="copyright@harithajewellery"
+        android:textSize="10sp"
+        android:textColor="#9C27B0"
+        android:background="#77242525"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

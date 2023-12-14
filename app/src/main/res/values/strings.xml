@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JwelleryApp</string>
+    <string name="Description_1">A piece of jewellery should be described as antique if it is over 100 years old. As jewellery passes over the 100-year age mark, it technically becomes classified as antique as opposed to vintage, but as we have learned already – it\'s common for the lines to be blurred</string>
+    <string name="Des_2">Every piece of antique jewelry is unique because of its craftsmanship. You cannot replicate them like modern machine-made jewelry. So, there can only be one piece of a kind. Antique jewelry has a different appeal that we cannot see in modern jewelry</string>
+    <string name="Des_3">While most modern jewellery is cast, antique jewellery is always handmade and vintage jewellery is sometimes handmade or at the very least hand-finished. Antique and vintage jewellery is often imitated but rarely duplicated.</string>
+    <string name="Des_4">Antiques are usually objects which show some degree of craftsmanship, or a certain attention to design such as a desk or the early automobile. In a consumer society, an antique is above all an object whose atypical construction and age give it a market value superior to similar objects of recent manufacture.</string>
+</resources>
